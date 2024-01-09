@@ -1,5 +1,5 @@
 % Class Identifier and Version
-\ProvidesClass{ZhongtaoGuan-resume}[2023/06/06 ZhongtaoGuan class]
+\ProvidesClass{ZhongtaoGuan-CV}[2023/06/06 ZhongtaoGuan class]
 \NeedsTeXFormat{LaTeX2e}
 
 % Set font size and paper type

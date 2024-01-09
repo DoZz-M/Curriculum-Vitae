@@ -12,7 +12,7 @@
 *.cb2
 *.json
 .*.lb
-
+*.txt
 ## Intermediate documents:
 *.dvi
 *.xdv
