@@ -1,5 +1,9 @@
 % Class Identifier and Version
+<<<<<<< HEAD:ZhongtaoGuan_CV.cls
 \ProvidesClass{ZhongtaoGuan_CV}[2024/05/24 ZhongtaoGuan class]
+=======
+\ProvidesClass{ZhongtaoGuan-CV}[2023/06/06 ZhongtaoGuan class]
+>>>>>>> 501d3fbab263f726a0fe7677b8dd11daf7ef443c:ZhongtaoGuan-CV.cls
 \NeedsTeXFormat{LaTeX2e}
 
 % Set font size and paper type
